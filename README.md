@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My name is Dimitrii Lyomin, I am Front-End Developer
+- 🔭 I’m currently working on different things yep
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimitrii-lyomin-45013858)
+
 [![](https://visitcount.itsvg.in/api?id=lemind&label=Profile%20Views&color=3&icon=8&pretty=true)](https://visitcount.itsvg.in)
 
 <!--
