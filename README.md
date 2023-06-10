@@ -1,7 +1,9 @@
-### Hi there 👋
+### Hi there! 👋
 
 My name is Dimitrii Lyomin, I am Front-End Developer
+- 📫 Email - leminds@gmail.com
 - 🔭 I’m currently working on different things
+- ⚡ One of the latest test assigments, to check my code style - https://github.com/lemind/bingo
 
 My Stack: 
 
