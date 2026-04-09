@@ -1,60 +1,75 @@
-### Hi there! 👋
+# Dmitrii Lemin — Senior Frontend Engineer
+ 
+📫 leminds@gmail.com · [LinkedIn](https://linkedin.com/in/dmitrii-lemin-45013858)
+[CV](https://linkedin.com/in/dmitrii-lemin-45013858)
 
-My name is Dimitrii Lyomin, I am Front-End Developer
-- 📫 Email - leminds@gmail.com
-- 🔭 I’m currently working on different things
-- ⚡ One of the latest test assigments, to check my code style - https://github.com/lemind/bingo
-- some of my articles [over here](https://dev.to/lemind)
+---
 
-My Stack: 
+Senior Frontend Engineer with 10+ years across fintech, crypto trading, and 
+enterprise — including team lead experience and multiple 0→1 product builds.
 
-Languages: ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+I specialize in **React, Next.js, and TypeScript**, with focus on scalable 
+frontend architecture, user-critical flows (authentication, KYC, onboarding, 
+account management), and performance-conscious delivery. Comfortable across 
+the stack: Node.js, REST/GraphQL, data-layer design, and mobile (React Native).
 
-Tools: 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Astro](https://img.shields.io/static/v1?style=for-the-badge&message=Astro&color=FF5D01&logo=Astro&logoColor=FFFFFF&label=)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
-![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
-![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Jasmine](https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white)
-![Stylus](https://img.shields.io/badge/stylus-%23ff6347.svg?style=for-the-badge&logo=stylus&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+---
+
+## Current Focus
+
+- Production-grade frontend architecture (Feature-Sliced Design, App Router, SSR)
+- Security-critical user flows — auth, KYC, 2FA, API key management
+- Scalable state and data-layer design with TanStack Query
+- Testing strategy and regression safety across critical flows
+- Cross-functional delivery in fintech and trading domains
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimitrii-lyomin-45013858)
+---
 
-[![](https://visitcount.itsvg.in/api?id=lemind&label=Profile%20Views&color=3&icon=8&pretty=true)](https://visitcount.itsvg.in)
+## Tech Stack
 
-<!--
-**lemind/lemind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Frontend**  
+React · Next.js · TypeScript · JavaScript · GraphQL · Tailwind · 
+CSS Modules · styled-components · Zod
 
-Here are some ideas to get you started:
+**State & Data**  
+TanStack Query · Redux Toolkit · MobX · Jotai · Recoil
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Backend & APIs**  
+Node.js · NestJS · Express · PostgreSQL · MongoDB · REST APIs
+
+**Testing**  
+Jest · Testing Library · Vitest · Cypress
+
+**Architecture**  
+Feature-Sliced Design (FSD) · Component-driven architecture · 
+SSR / App Router · performance optimization · accessibility (a11y)
+
+**Tools**  
+Vite · Webpack · Docker · OpenShift · GitOps · CI/CD · Agile/Scrum
+
+**Mobile**  
+React Native · Cordova
+
+---
+
+## What I Care About
+
+- Clean architecture that stays healthy as products scale
+- Business-impactful frontend work — conversion, reliability, performance
+- Honest engineering: maintainable code over impressive-looking complexity
+- Reliable testing as a first-class practice, not an afterthought
+- Cross-functional collaboration with backend, product, and design
+
+---
+
+## Code Sample
+
+🔗 [Bingo — test assignment](https://github.com/lemind/bingo)  
+Recent technical assignment — good signal for code style and 
+engineering approach.
+
+---
+
+Some technical notes and articles:  
+🔗 [Articles](https://dev.to/lemind) 
