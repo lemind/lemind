@@ -1,7 +1,10 @@
 # Dmitrii Lemin — Senior Frontend Engineer
  
-📫 leminds@gmail.com · [LinkedIn](https://linkedin.com/in/dmitrii-lemin-45013858)
-[CV](https://linkedin.com/in/dmitrii-lemin-45013858)
+📫 leminds@gmail.com
+
+[LinkedIn](https://linkedin.com/in/dmitrii-lemin-45013858)
+
+[CV](https://github.com/lemind/cv/blob/master/Dmitrii_Lemin_CV_2026.pdf)
 
 ---
 
