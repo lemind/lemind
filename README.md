@@ -68,9 +68,17 @@ React Native · Cordova
 
 ## Code Sample
 
+🔗 [Biassemble — AI-powered conversational app that detects cognitive biases in personal reasoning](https://github.com/lemind/biassemble)  
+AI-powered conversational app that detects cognitive biases in personal reasoning. Users share a situation, answer AI-generated questions, and receive a structured bias assessment with evidence from their own story. Built with structured reasoning traces, evidence binding, and CI-gated quality metrics.
+
+Public repo: github.com/dlains/biassemble (Next.js + React)
+Live: https://frontend-topaz-eight-10.vercel.app
+Private AI core: prompt-engineered reflection pipeline with auditable intermediate reasoning.
+
 🔗 [Bingo — test assignment](https://github.com/lemind/bingo)  
 Recent technical assignment — good signal for code style and 
 engineering approach.
+
 
 ---
 
