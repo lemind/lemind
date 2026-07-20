@@ -68,12 +68,33 @@ React Native · Cordova
 
 ## Code Sample
 
-🔗 [Biassemble — AI-powered conversational app that detects cognitive biases in personal reasoning](https://github.com/lemind/biassemble)  
-AI-powered conversational app that detects cognitive biases in personal reasoning. Users share a situation, answer AI-generated questions, and receive a structured bias assessment with evidence from their own story. Built with structured reasoning traces, evidence binding, and CI-gated quality metrics.
+My pet project — Biassemble 🧠
+An AI that finds cognitive biases in your story — and must prove every finding with a verbatim quote from your own text. Found nothing? It says nothing. Silence is a valid result, not a failure.
 
-Public repo: github.com/dlains/biassemble (Next.js + React)
-Live: https://frontend-topaz-eight-10.vercel.app
-Private AI core: prompt-engineered reflection pipeline with auditable intermediate reasoning.
+⚙️ The flow:
+[FE · React] → [BE · Fastify] → [Core · TypeScript] ⇄ [Engine · Python]
+story → hybrid retrieval (LLM ∪ vector search on #pgvector) → assessment (#Gemini as the LLM) → findings + exact quotes
+
+🔗 Live: https://frontend-topaz-eight-10.vercel.app
+
+📦 Code:
+
+[biassemble](https://github.com/lemind/biassemble) — the app: frontend + API
+
+[biassemble-core](https://github.com/lemind/biassemble-core) — the brain: prompts, assessment logic, evals
+
+[biassemble-engine](https://github.com/lemind/biassemble-engine) — retrieval: 38-bias knowledge base, embeddings, search
+
+
+Built with real eval discipline: golden datasets, CI quality gates (false-positive rate < 0.10), versioned prompts, Recall@5 tracked openly — including the gap still being closed.
+
+Articles:
+
+[Building a RAG Engine: Three Engineering Assumptions I Had to Unlearn](https://dev.to/lemind/building-a-rag-engine-three-engineering-assumptions-i-had-to-unlearn-51km)
+
+[My Bias Detector Found "Cherry-Picking" in the Answer "No Info"](https://dev.to/lemind/my-bias-detector-found-cherry-picking-in-the-answer-no-info-9hf)
+
+#AI #LLM #RAG #TypeScript #Python #SideProject
 
 🔗 [Bingo — test assignment](https://github.com/lemind/bingo)  
 Recent technical assignment — good signal for code style and 
