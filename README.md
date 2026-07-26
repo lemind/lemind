@@ -96,6 +96,13 @@ Articles:
 
 #AI #LLM #RAG #TypeScript #Python #SideProject
 
+🔗 [Async URL Status Checker](https://three205-hy7w.onrender.com/) — AI-powered  
+NestJS + React + TypeScript. Submit a list of URLs; the backend checks each via 
+background HTTP HEAD requests (concurrency-capped, cancellable) while the 
+frontend tracks live progress.
+
+📦 Code: [3205](https://github.com/lemind/3205)
+
 🔗 [Bingo — test assignment](https://github.com/lemind/bingo)  
 Recent technical assignment — good signal for code style and 
 engineering approach.
