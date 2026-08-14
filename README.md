@@ -1,4 +1,4 @@
-# Dmitrii Lemin — Senior Frontend Engineer
+# Dmitrii Lemin — Senior Frontend / Full-Stack Engineer · React · TypeScript · Node.js · Building LLM-powered products
  
 📫 leminds@gmail.com
 
