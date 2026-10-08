@@ -66,7 +66,7 @@ React Native · Cordova
 
 ---
 
-## Code Sample
+## Side Projects & Code Samples
 
 My pet project — Biassemble 🧠
 An AI that finds cognitive biases in your story — and must prove every finding with a verbatim quote from your own text. Found nothing? It says nothing. Silence is a valid result, not a failure.
@@ -88,12 +88,6 @@ story → hybrid retrieval (LLM ∪ vector search on #pgvector) → assessment (
 
 Built with real eval discipline: golden datasets, CI quality gates (false-positive rate < 0.10), versioned prompts, Recall@5 tracked openly — including the gap still being closed.
 
-Articles:
-
-[Building a RAG Engine: Three Engineering Assumptions I Had to Unlearn](https://dev.to/lemind/building-a-rag-engine-three-engineering-assumptions-i-had-to-unlearn-51km)
-
-[My Bias Detector Found "Cherry-Picking" in the Answer "No Info"](https://dev.to/lemind/my-bias-detector-found-cherry-picking-in-the-answer-no-info-9hf)
-
 #AI #LLM #RAG #TypeScript #Python #SideProject
 
 🔗 [Async URL Status Checker](https://three205-hy7w.onrender.com/) — AI-powered  
@@ -110,5 +104,12 @@ engineering approach.
 
 ---
 
-Some technical notes and articles:  
-🔗 [Articles](https://dev.to/lemind) 
+## Articles
+
+[The Model's Explanation Had the Right Answer. Its Verdict Didn't.](https://dev.to/lemind/the-models-explanation-had-the-right-answer-its-verdict-didnt-2ji0)
+
+[Building a RAG Engine: Three Engineering Assumptions I Had to Unlearn](https://dev.to/lemind/building-a-rag-engine-three-engineering-assumptions-i-had-to-unlearn-51km)
+
+[My Bias Detector Found "Cherry-Picking" in the Answer "No Info"](https://dev.to/lemind/my-bias-detector-found-cherry-picking-in-the-answer-no-info-9hf)
+
+🔗 [All articles on dev.to](https://dev.to/lemind)
