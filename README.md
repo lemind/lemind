@@ -1,5 +1,7 @@
 # Dmitrii Lemin — Senior Frontend / Full-Stack Engineer · React · TypeScript · Node.js · Building LLM-powered products
  
+🔗 [n30sk.cc](https://n30sk.cc) — systems that check claims
+
 📫 leminds@gmail.com
 
 [LinkedIn](https://linkedin.com/in/dmitrii-lemin-45013858)
